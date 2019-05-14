@@ -1,0 +1,22 @@
+{
+  "name": "circleci_testing",
+  "version": "1.0.0",
+  "description": "Testing circleci",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vzDevelopment/circleci_testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vzDevelopment/circleci_testing/issues"
+  },
+  "homepage": "https://github.com/vzDevelopment/circleci_testing#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
+}
